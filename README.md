@@ -1,16 +1,23 @@
-## Hi there 👋
+# Patrik Missio
+Estou cursand Técnico em  Desenvolvimento de Sistemas. Apaixonado por games.
 
-<!--
-**Patriklm462/Patriklm462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## Educação
 
-Here are some ideas to get you started:
+- Ensino médio completo
+- Curso Técnico em Desenvolvimeto de Sistemas pelo Senac.(Em andamento)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## ~~Experiência de Trabalho~~
+
+---
+## Hobbies
+
+- Jogar videogames
+- Futebol
+- Ouvir música
+---
+### Meu Instagram: https://instagram/patrikmissio
+
+---
+
