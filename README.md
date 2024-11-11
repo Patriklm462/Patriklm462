@@ -1,5 +1,5 @@
 # Patrik Missio
-Estou cursand Técnico em  Desenvolvimento de Sistemas. Apaixonado por games.
+Estou cursando Técnico em  Desenvolvimento de Sistemas. Apaixonado por games.
 
 ---
 ## Educação
