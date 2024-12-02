@@ -4,7 +4,7 @@ Estou cursando Técnico em  Desenvolvimento de Sistemas. Apaixonado por games.
 ---
 ## Educação
 
-- Ensino médio completo
+- Ensino Médio Completo
 - Curso Técnico em Desenvolvimeto de Sistemas pelo Senac.(Em andamento)
 
 ---
